@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>From Lanz</h2>
+
+<p id="demo">Happy One Year</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "happy friendship anniversary one year na pala kitang iniistorbo grabe salamat dahil andyan ka lagi sa tawanan man o sa mga seryosong usapan may bouquet pala ako para sayo na ibibigay ko mamaya sobrang swerte ko na ikaw ang naging tropa ko looking forward sa marami pang adventures natin"'>Click Me!</button>
+
+</body>
+</html>
